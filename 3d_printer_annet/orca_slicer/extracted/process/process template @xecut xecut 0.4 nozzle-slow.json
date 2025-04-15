@@ -1,0 +1,21 @@
+{
+    "default_acceleration": "500",
+    "from": "User",
+    "inherits": "process template @xecut xecut 0.4 nozzle",
+    "initial_layer_travel_speed": "50%",
+    "inner_wall_acceleration": "500",
+    "inner_wall_speed": "50",
+    "internal_solid_infill_speed": "50",
+    "is_custom_defined": "0",
+    "name": "process template @xecut xecut 0.4 nozzle-slow",
+    "outer_wall_acceleration": "500",
+    "outer_wall_speed": "50",
+    "print_settings_id": "process template @xecut xecut 0.4 nozzle-slow",
+    "skirt_loops": "2",
+    "sparse_infill_speed": "70",
+    "top_surface_acceleration": "500",
+    "top_surface_speed": "100",
+    "travel_acceleration": "500",
+    "travel_speed": "200",
+    "version": "1.7.0.2"
+}
